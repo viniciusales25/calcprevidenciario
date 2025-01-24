@@ -1,5 +1,5 @@
 import React, { FC } from "react";
-import CalculadoraPrevidenciaria from "./components/CalculadoraPrevidenciaria";
+import CalculadoraPrevidenciaria from "./components/CalculadoraPrevidenciaria.tsx";
 
 const App: FC = () => {
   return (
